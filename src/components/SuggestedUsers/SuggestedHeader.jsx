@@ -4,7 +4,7 @@ import { Link as RouterLink } from "react-router-dom"
 const SuggestedHeader = () => {
   return <Flex justifyContent={"space-between"} alignItems={"center"} w={"full"}>
     <Flex alignItems={"center"} gap={2}>
-      <Avatar name="Huggo Parcelly" size={"md"} src="/profile.png"/>
+      <Avatar name="Huggo Parcelly" size={"lg"} src="/profile.png"/>
       <Text fontSize={12} fontWeight={"bold"}>
         hparcelly
       </Text>
