@@ -38,10 +38,6 @@ The project was created following the YouTube tutorial "Build and Deploy an Inst
 
 This project is still under development and new features are being added constantly. If you want to contribute, feel free to send a pull request.
 
-**License**
-
-This project is licensed under the MIT license.
-
 **Acknowledgments**
 
 I thank freeCodeCamp and As a Programmer for making the tutorial available, collaborating in the learning of the technologies used in this project.
