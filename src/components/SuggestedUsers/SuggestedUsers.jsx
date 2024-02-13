@@ -15,9 +15,10 @@ const SuggestedUsers = () => {
     </Text>
   </Flex>
 
-  <SuggestedUser />
-  <SuggestedUser />
-  <SuggestedUser />
+  <SuggestedUser name="Daniel Abramov" followers={1234} avatar="https://bit.ly/dan-abramov"/>
+  <SuggestedUser name="Ryan Florence" followers={576} avatar="https://bit.ly/ryan-florence"/>
+  <SuggestedUser name="Christian Nwamba" followers={751} avatar="https://bit.ly/code-beast"/>
+  
 
   <Box fontSize={12} color={"gray.500"} mt={5} alignSelf={"start"}>
     © 2024 Built By{" "}
